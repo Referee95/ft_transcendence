@@ -62,8 +62,8 @@ The project follows a modular architecture:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/project-name.git
-cd project-name
+git clone https://github.com/Referee95/ft_transcendence.git
+cd ft_transcendence
 ```
 
 ### 2. Setup environment
